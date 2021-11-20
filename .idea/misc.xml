@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/layout/activity_main_admin.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/layout/activity_shop_details.xml" value="0.264" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/layout/activity_update.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/layout/product_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/layout/searchmenu.xml" value="0.115625" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/menu/search_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidProject/Knowbeforeyoushop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/admin/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/admin/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/admin/src/main/res/layout/activity_main_admin.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/admin/src/main/res/layout/item.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/admin/src/main/res/layout/product_add.xml" value="0.264" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_filter_list_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/ic_email_black_24dp.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/shape_rect01.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/drawable/shapes.xml" value="0.2703125" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_add_product.xml" value="0.264" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_main_admin.xml" value="0.264" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_main_seller.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_register.xml" value="0.264" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_shop_details.xml" value="0.264" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/activity_update.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/dialog_content.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/item.xml" value="0.18206521739130435" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/itemupdate.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/Jaya Shree G/AndroidStudioProjects/Knowbeforeyoushop/app/src/main/res/layout/product_add.xml" value="0.121875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
