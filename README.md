@@ -8,7 +8,7 @@ Contributors include;
     3.20C092 - Swathi R.
     4.20C111 - Yuvashri M.
 During the course of our project, continuous support and help was provided by our mentor,
-    Dr.M.Nirmala Devi
+    Dr.M.Nirmala Devi,
     Assistant Professor,
     Department of Computer Science and Engineering,
     Thiagarajar College of Engineering,
